@@ -1,0 +1,40 @@
+body {
+  width: 75%;
+  background-color:;
+}
+p{
+  font-family:cursive;
+  font-weight:bold;
+  font-size:4em;
+  color:#9575CD;
+}
+
+#res {
+  background-color: #FFF9C4;
+  border: groove;
+  height: 48px;
+  font-size: 20px;
+}
+
+#btns button {
+  width: 25%;
+  height: 60px;
+  font-size: 18px;
+  margin:0;
+  float: left;
+}
+
+#btn0, #btn1 {
+  background-color: lightgreen;
+  color: brown;
+}
+
+#btnClr, #btnEql {
+  background-color: #FF8A65;
+  color: white;
+}
+
+#btnSum, #btnSub, #btnMul, #btnDiv {
+  background-color:#B3E5FC;
+  color:black;
+}
